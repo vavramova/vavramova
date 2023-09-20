@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Viktoria
 -  📍 Currently settled in Frankfurt, Germany
 - ✨ A newbie in programming
-- 👀 I’m interested in everything :)
 - 🌱 I’m currently learning JavaScript
 
 <!---
