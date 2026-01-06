@@ -1,7 +1,7 @@
 ### Hi, I'm Viktoria 👋
 
-🎓 Student at TU Darmstadt — Computer Science 
+🎓 Student at TU Darmstadt — Computer Science  
 💻 Main languages: **Java** & **JavaScript**  
-🔐 Interested in **Cybersecurity**  and **Web**
+🔐 Interested in **Web** and **Cybersecurity**  
 📫 Contact: **avramovaviki017@gmail.com**  
 🏃 Fun fact: I love sports!
